@@ -7,7 +7,7 @@ Group 18
 - Hamza Zahid
 - Tanner Little
 
-Copyright (C) 2020. All rights reserved.
+Copyright (C) 2022. All rights reserved.
 
 ### Installing and Running
 
